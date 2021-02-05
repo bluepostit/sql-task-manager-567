@@ -8,3 +8,8 @@
 3. Implement the UPDATE logic in the same method
 4. Implement the READ logic to retrieve all tasks (what type of method is it?)
 5. Implement the DESTROY logic on a task
+
+
+## Notes
+- Before getting started, run `cp tasks.db.fresh tasks.db`
+- Before each run of `test.rb`, you should run `ruby reset_database.rb`
